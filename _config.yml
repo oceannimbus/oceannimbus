@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "OceanSource"
 title_separator          : "-"
-name                     : &name "Saulo Uggo"
+name                     : &name "Saulo & Uggo"
 description              : &description "A OOOOOOOOOOOOOOOo theme for your blog or site with a minimalist aesthetic."
 url                      : https://oceannimbus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/oceansource" # the subpath of your site, e.g. "/blog"
-gh_repo                  : "https://github.com/mmistakes/minimal-mistakes/blob"
+gh_repo                  : "https://github.com/oceansource/blob"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -64,8 +64,8 @@ google_ad_slot           :
 # Site Author
 author:
   name             : *name
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
+  avatar           : "bio-photo-2.jpg"
+  bio              : "Oceanographers, tattooed, time traveling, designer."
   location         : "Buffalo, NY"
   email            : *email
   uri              : "https://mademistakes.com"
