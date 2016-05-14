@@ -65,17 +65,17 @@ google_ad_slot           :
 author:
   name             : *name
   avatar           : "bio-photo-2.jpg"
-  bio              : "Oceanographers, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  bio              : "Oceanographers, open sourcers, designer."
+  location         : "Earth"
   email            : *email
-  uri              : "https://mademistakes.com"
+  uri              : "https://oceannimbus.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "oceannimbus"
   google_plus      :
   keybase          :
   instagram        : "mmistakes"
