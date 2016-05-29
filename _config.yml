@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "OceanNimbus"
+title                    : "Ocean Nimbus"
 title_separator          : "-"
 name                     : &name "Saulo & Uggo"
 description              : &description "Blog about ocean stuff."
