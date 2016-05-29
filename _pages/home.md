@@ -11,21 +11,21 @@ header:
 excerpt: 'A blog about ocean stuff.<br /> <small>Currently at version 3.1.7</small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "Oceanography"
+    title: "Oceanography"
+    excerpt: "The reason why we are here."
     url: "/docs/configuration/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "Data analysis"
+    title: "Data analysis"
+    excerpt: "How to see what nature is telling us."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License."
+    alt: "Curiosities"
+    title: "Curiosities"
+    excerpt: "From surf to sand castles."
     url: "/docs/license/"
     btn_label: "Learn More"
 github:
