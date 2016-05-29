@@ -14,13 +14,13 @@ feature_row:
     excerpt: "The reason why we are here."
     url: "/docs/configuration/"
     btn_label: "Learn More"
-  - image_path: mm-responsive-feature.png
+  - image_path: nc-test-outline-64px_board.svg
     alt: "Data analysis"
     title: "Data analysis"
     excerpt: "How to see what nature is telling us."
     url: "/docs/layouts/"
     btn_label: "Learn More"
-  - image_path: mm-free-feature.png
+  - image_path: nc-test-outline-64px_eye.svg
     alt: "Curiosities"
     title: "Curiosities"
     excerpt: "From surf to sand castles."
