@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Ocean Nimbus"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Saulo & Uggo"
 description              : &description "Blog about ocean stuff."
-url                      : https://oceannimbus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #https://oceannimbus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/oceannimbus" # the subpath of your site, e.g. "/blog"
 gh_repo                  : "https://github.com/oceannimbus/blob"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
