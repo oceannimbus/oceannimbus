@@ -21,17 +21,17 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  #- title: "Quick-Start Guide"
+  #  url: /docs/quick-start-guide/
 
   - title: "About"
     url: /about/
 
-  - title: "Sample Posts"
+  - title: "Posts"
     url: /year-archive/
 
-  - title: "Sample Collections"
-    url: /collection-archive/
+  #- title: "Sample Collections"
+  #  url: /collection-archive/
 
 
 # documentation links
