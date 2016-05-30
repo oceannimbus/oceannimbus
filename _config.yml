@@ -65,7 +65,7 @@ google_ad_slot           :
 author:
   name             : *name
   avatar           : "bio-photo-2.jpg"
-  bio              : "Oceanographers, open sourcers, designer."
+  bio              : "Oceanographers, open source, physics."
   location         : "Earth"
   email            : *email
   uri              : "https://oceannimbus.com"
