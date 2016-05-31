@@ -221,7 +221,30 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
+  # _oceanography
+  - scope:
+      path: ""
+      type: oceanography
+    values:
+      layout: single
+      author_profile: false
+      share: true      
+  # _dataanalysis
+  - scope:
+      path: ""
+      type: dataanalysis
+    values:
+      layout: single
+      author_profile: false
+      share: true 
+  # _curiosities
+  - scope:
+      path: ""
+      type: curiosities
+    values:
+      layout: single
+      author_profile: false
+      share: true       
 
 # Outputting
 permalink: /:categories/:title/
