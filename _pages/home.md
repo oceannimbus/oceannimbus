@@ -12,19 +12,19 @@ feature_row:
     alt: "Oceanography"
     title: "Oceanography"
     excerpt: "The reason why we are here."
-    url: "/docs/configuration/"
+    url: "/oceanography"
     btn_label: "Learn More"
   - image_path: nc-test-outline-64px_board.svg
     alt: "Data analysis"
     title: "Data analysis"
     excerpt: "How to see what nature is telling us."
-    url: "/docs/layouts/"
+    url: "/dataanalysis"
     btn_label: "Learn More"
   - image_path: nc-test-outline-64px_eye.svg
     alt: "Curiosities"
     title: "Curiosities"
     excerpt: "From surf to sand castles."
-    url: "/docs/license/"
+    url: "/curiosities"
     btn_label: "Learn More"
 intro:
   - excerpt: 'Get notified when we add new stuff &nbsp; [<i class="fa fa-twitter"></i> @oceannimbus](https://twitter.com/oceannimbus){: .btn .btn--twitter}'
