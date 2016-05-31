@@ -3,7 +3,9 @@
 
 http://oceannimbus.github.io/oceannimbus/
 
-Ocean Nimbus is a blog for discussion about ocean subjects. This blog was based on the Minimal-Mistakes theme. Check it out at:
+Ocean Nimbus is a blog for discussion about ocean subjects. 
+
+This blog was built using the Minimal-Mistakes Jekyll theme. Check it out at:
 
 [1] https://mmistakes.github.io/minimal-mistakes/
 
