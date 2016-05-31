@@ -18,7 +18,7 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               : "custom" #"disqus" # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
     shortname            : "oceannimbus" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
@@ -161,6 +161,15 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  oceanography:
+    output: true
+    permalink: /:collection/:path/
+  dataanalysis:
+    output: true
+    permalink: /:collection/:path/
+  curiosities:
+    output: true
+    permalink: /:collection/:path/    
 
 
 # Defaults
