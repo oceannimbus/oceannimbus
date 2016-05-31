@@ -26,8 +26,6 @@ feature_row:
     excerpt: "From surf to sand castles."
     url: "/docs/license/"
     btn_label: "Learn More"
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=oceannimbus&repo=oceannimbus&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=oceannimbus&repo=oceannimbus&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: 'Get notified when we add new stuff &nbsp; [<i class="fa fa-twitter"></i> @oceannimbus](https://twitter.com/oceannimbus){: .btn .btn--twitter}'
 ---
