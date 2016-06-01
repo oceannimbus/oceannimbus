@@ -13,14 +13,14 @@ name                     : &name "Saulo & Uggo"
 description              : &description "Blog about ocean stuff."
 url                      : #https://oceannimbus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/oceannimbus" # the subpath of your site, e.g. "/blog"
-gh_repo                  : "https://github.com/oceannimbus/blob"
+gh_repo                  : "https://github.com/oceannimbus/oceannimbus"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "google-plus" #"disqus" # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : https://plus.google.com/u/0/ # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : https://plus.google.com/u/0/109003032002680425884 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
