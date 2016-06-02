@@ -3,6 +3,7 @@ title: "Oceanography"
 permalink: /oceanography/home_ocn/
 excerpt: "Oceanography."
 modified: 2016-05-31T23:55:00+02:00
+comments: true
 ---
 
 ## Activities
@@ -16,7 +17,7 @@ modified: 2016-05-31T23:55:00+02:00
 
 {% include comments.html %}
 
----
+<br/>
 
 ### Sand ripples!
 
@@ -30,4 +31,4 @@ And this one shows the ripple evolution under unidirectional flow.
 
 {% include comments.html %}
 
----
+<br/>

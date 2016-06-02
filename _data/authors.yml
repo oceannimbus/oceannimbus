@@ -2,7 +2,7 @@
 
 Uggo Pinho:
   name        : "Uggo Pinho"
-  uri         : "http://thewhip.com"
+  uri         : #"http://thewhip.com"
   email       : "oceannimbus@gmail.com"
   bio         : "From barrels to Navier-Stokes"
   avatar      : "bio-photo-2.jpg"
@@ -13,6 +13,6 @@ Saulo Meirelles:
   name        : "Saulo Meirelles"
   email       : "oceannimbus@gmail.com"
   bio         : "Quartz & Coriolis"
-  avatar      : "bio-photo.jpg"
-  twitter     : "oceannimbus"
+  avatar      : "EuFoto.jpeg"
+  twitter     : "SauloMeirelles_"
   google_plus : "oceannimbus"

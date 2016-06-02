@@ -5,7 +5,7 @@ date:
 header:
   overlay_color: "#5e616c"
   overlay_image: oceannimbus.jpg
-  caption:
+  caption: "Photo credit: [**Saulo Meirelles**](https://www.researchgate.net/profile/Saulo_Meirelles)"
 excerpt: 'A blog about ocean stuff.<br /> <small>Currently at version 0.0.1</small><br /><br />'
 feature_row:
   - image_path: nc-test-outline-64px_world.svg
