@@ -12,7 +12,7 @@ feature_row:
     alt: "Oceanography"
     title: "Oceanography"
     excerpt: "The reason why we are here."
-    url: "/oceanography"
+    url: "/oceanography/"
     btn_label: "Learn More"
   - image_path: nc-test-outline-64px_board.svg
     alt: "Data analysis"

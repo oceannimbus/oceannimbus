@@ -235,8 +235,8 @@ defaults:
       path: ""
       type: oceanography
     values:
-      layout: archive
-      author_profile: false
+      layout: single
+      author_profile: true
       comments: true
       share: true
       read_time: true      
