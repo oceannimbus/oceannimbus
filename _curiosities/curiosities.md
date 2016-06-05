@@ -10,7 +10,10 @@ author: Uggo & Saulo
 
 ---
 
-[![alt text][2]][1]
+### Could morning showers, like rainstorms, have an antidepressant effect?
 
-  [1]: <img src="http://static.nautil.us/9434_beff5a409891f9bf1bfa1e555fe213e2.jpg" width="733" alt="Scoles_BR-storm">
-  [2]: http://nautil.us/issue/37/currents/the-strange-blissfulness-of-storms 
+Sarah Scoles answers this question in the [**Nautilus issue 037**](http://nautil.us/issue/37/currents/the-strange-blissfulness-of-storms). Check it out! :wink:
+
+[![alt text](http://static.nautil.us/9434_beff5a409891f9bf1bfa1e555fe213e2.jpg)](http://nautil.us/issue/37/currents/the-strange-blissfulness-of-storms (hover text))
+
+---
