@@ -1,8 +1,16 @@
 ---
 title: "Curiosities"
-permalink: /curiosities/home_cur/
 excerpt: "Curiosities."
-modified: 2016-05-31T23:55:00+02:00
+permalink: /Curiosities/
+comments: true
+author: Uggo & Saulo
 ---
 
-## Curiosities about ocean stuff
+## Activities
+
+---
+
+[![alt text][2]][1]
+
+  [1]: http://nautil.us/issue/37/currents/the-strange-blissfulness-of-storms
+  [2]: http://static.nautil.us/9434_beff5a409891f9bf1bfa1e555fe213e2.jpg (hover text)
