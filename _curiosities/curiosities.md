@@ -1,7 +1,7 @@
 ---
 title: "Curiosities"
 excerpt: "Curiosities."
-permalink: /Curiosities/
+permalink: /curiosities/
 comments: true
 author: Uggo & Saulo
 ---
