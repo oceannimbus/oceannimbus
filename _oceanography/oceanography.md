@@ -10,6 +10,13 @@ author: Uggo & Saulo
 
 ---
 
+### How damage can a severe storm combined with spring do?
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Timelapse of last 72hrs at <a href="https://twitter.com/hashtag/Narrabeen?src=hash">#Narrabeen</a> showing phenomenal erosion <a href="https://twitter.com/hashtag/SydneyStorm?src=hash">#SydneyStorm</a> <a href="https://twitter.com/UNSWEngineering">@UNSWEngineering</a> <a href="https://twitter.com/abcnews">@abcnews</a> <a href="https://t.co/hsXnDQcnDu">pic.twitter.com/hsXnDQcnDu</a></p>&mdash; Mitchell Harley (@DocHarleyMD) <a href="https://twitter.com/DocHarleyMD/status/739739914305077248">June 6, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 ### Recent publication from Saulo's MSc project!
 
 
