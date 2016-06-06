@@ -14,6 +14,7 @@ author: Uggo & Saulo
 
 Sarah Scoles answers this question in the [**Nautilus issue 037**](http://nautil.us/issue/37/currents/the-strange-blissfulness-of-storms). Check it out! :wink:
 
-[![alt text](http://static.nautil.us/9434_beff5a409891f9bf1bfa1e555fe213e2.jpg)](http://nautil.us/issue/37/currents/the-strange-blissfulness-of-storms (hover text))
+[![alt text](http://memberfiles.freewebs.com/21/30/126943021/photos/Best-of-2014/IMG_2627.JPG)](http://nautil.us/issue/37/currents/the-strange-blissfulness-of-storms (hover text))
+*Photo credit: http://www.nzpchasers.com/*
 
 ---
