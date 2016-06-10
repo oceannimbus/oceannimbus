@@ -12,7 +12,7 @@ author: Uggo & Saulo
 
 ### Some reflection in the ocean day  
 
-Our oceans health is worrying, Dan Satterfield discusses in his recent [**post**](http://blogs.agu.org/wildwildscience/2016/06/08/world-oceans-day-little-celebrate/)
+Our oceans health is worrying, Dan Satterfield discusses in his recent [**post**](http://blogs.agu.org/wildwildscience/2016/06/08/world-oceans-day-little-celebrate/).
 
 [![alt text](http://econewsnetwork.org/wp-content/uploads/2015/04/RaceforWater_Pollution_ChristopheLaunay.jpg)](http://blogs.agu.org/wildwildscience/2016/06/08/world-oceans-day-little-celebrate/)
 *Photo credit: Christophe Launay*
