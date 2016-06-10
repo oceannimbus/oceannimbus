@@ -6,6 +6,7 @@ categories:
   - Science
 tags:
   - theory
+  - waves
 comments: true
 ---
 
