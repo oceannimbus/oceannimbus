@@ -13,7 +13,7 @@ name                     : &name "Saulo & Uggo"
 description              : &description "Blog about ocean stuff."
 url                      : #https://oceannimbus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/oceannimbus" # the subpath of your site, e.g. "/blog"
-gh_repo                  : "https://github.com/oceannimbus/oceannimbus"
+#gh_repo                  : "https://github.com/oceannimbus/oceannimbus"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -169,7 +169,7 @@ collections:
     permalink: /:collection/:path/
   curiosities:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -239,7 +239,7 @@ defaults:
       author_profile: true
       comments: true
       share: true
-      read_time: true      
+      read_time: true
   # _dataanalysis
   - scope:
       path: ""
@@ -249,7 +249,7 @@ defaults:
       author_profile: true
       comments: true
       share: true
-      read_time: true  
+      read_time: true
   # _curiosities
   - scope:
       path: ""
@@ -259,7 +259,7 @@ defaults:
       author_profile: true
       comments: true
       share: true
-      read_time: true    
+      read_time: true
 
 # Outputting
 permalink: /:categories/:title/
