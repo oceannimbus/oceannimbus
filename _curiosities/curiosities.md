@@ -14,8 +14,8 @@ author: Uggo & Saulo
 
 Tom Vanderbilt reveals the ocean's black swans in the [**Nautilus issue 037**](http://nautil.us/issue/37/currents/when-good-waves-go-rogue-rp).
 
-[![alt text](https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg#/media/File:Great_Wave_off_Kanagawa2.jpg)](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa#/media/File:Great_Wave_off_Kanagawa2.jpg)
-*Photo credit: http://www.nzpchasers.com/*
+<p><a href="https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg#/media/File:Great_Wave_off_Kanagawa2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/1200px-Great_Wave_off_Kanagawa2.jpg" alt="Great Wave off Kanagawa2.jpg"></a><br></p>
+*Photo credit: Wikipedia*
 
 ---
 
