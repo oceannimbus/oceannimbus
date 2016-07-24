@@ -3,11 +3,43 @@ layout: single
 title:  "Draft Post"
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
-categories: 
+categories:
   - Jekyll
 tags:
   - edge case
 ---
+
+
+
+
+{% highlight python %}
+import os
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import ndimage as ndi
+from skimage import feature
+
+filename = os.path.join(skimage.data_dir, 'flume_0023.bmp')
+
+from skimage import io
+im = io.imread(filename)
+
+
+# Compute the Canny filter for two values of sigma
+edges1 = feature.canny(im)
+edges2 = feature.canny(im, sigma=3)
+
+# display results
+fig, (ax1, ax2, ax3) = plt.subplots(nrows=1, ncols=3, figsize=(8, 3))
+{% endhighlight %}
+
+
+
+```
+ cd blogO/
+ git pull (ainda não usei esse comando, nao sei se vai funcionar :)  
+```
+
 Monocle ipsum dolor sit amet handsome pariatur aliqua, hub remarkable irure commodo classic deserunt bespoke. Sunt commodo signature, Swiss minim flat white Tsutaya excepteur artisanal et Nordic laborum joy ANA. Beams mollit exquisite Ginza efficient dolore qui Comme des Garçons Winkreative Lufthansa bulletin global. Iconic sed liveable duis. Mollit dolore eu laboris Comme des Garçons hub pintxos sed eiusmod tote bag Shinkansen nisi consectetur pariatur. Nordic international quis finest Baggu dolore, bureaux hub hand-crafted ut joy sint Airbus A380.
 
 Conversation handsome hub cosy, enim emerging sed K-pop velit Gaggenau charming proident et boulevard ryokan. Remarkable airport deserunt international est, nulla minim magna emerging discerning in exclusive dolor. Commodo dolore deserunt cosy, global Nordic culpa uniforms signature charming. Smart ryokan commodo, eiusmod global occaecat incididunt aliqua Beams. Boulevard conversation excepteur finest Swiss non veniam Comme des Garçons essential artisanal. Destination Scandinavian international, anim Boeing 787 in duis Baggu irure essential.
