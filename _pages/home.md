@@ -11,19 +11,19 @@ feature_row:
   - image_path: nc-test-outline-64px_world.svg
     alt: "Oceanography"
     title: "Oceanography"
-    excerpt: "The reason why we are here."
+    excerpt: "All about ocean."
     url: "/oceanography/"
     btn_label: "Learn More"
   - image_path: nc-test-outline-64px_board.svg
     alt: "Data analysis"
     title: "Data analysis"
-    excerpt: "How to see what nature is telling us."
+    excerpt: "Ways to see what nature is telling us."
     url: "/dataanalysis/"
     btn_label: "Learn More"
   - image_path: nc-test-outline-64px_eye.svg
     alt: "Curiosities"
     title: "Curiosities"
-    excerpt: "From surf to sand castles."
+    excerpt: "Ocean news."
     url: "/curiosities/"
     btn_label: "Learn More"
 intro:
