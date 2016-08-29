@@ -10,6 +10,8 @@ tags:
 comments: true
 ---
 
+{% include base_path %}
+
 # Acoustic Doppler Current Profiler (ADCP)
 
 There are a large source of information available on the web about ADCPs and its functionalities. Our intention here is to to provide a quick and basic introduction on the operation of this instrument.
@@ -24,44 +26,77 @@ The first step after the proper energy and data cable connection is to open the 
 
 ### 1) When you first open BBTalk, you may see the following screen:
 
-<img src="images/bbtalk1.jpg" alt>
+{% capture fig_img %}
+![BBTalk1]({{ site.url }}{{ site.baseurl }}/images/figures/bbtalk1.jpg){: .align-center}
+{% endcapture %}
 
-![BBTalk1](images/bbtalk1.jpg "BBTalk first screen")
-*BBTalK first screen.*
+<figure style="width: 500px">
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>BBTalK first screen.</figcaption>
+</figure>
 
-![My helpful screenshot]({{ /home/wind/Public/OceanNimbus/oceannimbus/ }}/images/bbtalk1.jpg)
-
-[![alt text](/home/wind/Public/OceanNimbus/oceannimbus/images/bbtalk1.jpg)](http://blogs.agu.org/wildwildscience/2016/06/08/world-oceans-day-little-celebrate/)
-*Photo credit:*
 
 At this point, you have to indicate the model and the COM port.
 
 ### 2) Configuration of *Baud rate*, *Parity*, *stop Bits*, *Flow Control*:
 
-![BBTalk2](./figures/bbtalk2.jpg "BBTalk second screen")
-*Connection configuration of the ADCP*
+{% capture fig_img %}
+![BBTalk2]({{ site.url }}{{ site.baseurl }}/images/figures/bbtalk2.jpg){: .align-center}
+{% endcapture %}
+
+<figure style="width: 500px">
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Connection configuration of the ADCP.</figcaption>
+</figure>
+
 
 ### 3) Starting ADCP command options on *BBTalk*:
 
-![BBTalk3](./figures/bbtalk3.jpg "BBTalk 3rd screen")
-*Screen showing the commands to be sent to the instrument.*
+{% capture fig_img %}
+![BBTalk3]({{ site.url }}{{ site.baseurl }}/images/figures/bbtalk3.jpg){: .align-center}
+{% endcapture %}
+
+<figure style="width: 500px">
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Screen showing the commands to be sent to the instrument.</figcaption>
+</figure>
+
 
 ### 4) Now, the sensor can be tested through BBTalk. The first test is the communication test:
 It is easily performed by sending a *Break* by clicking on the button `B`:
 
-![BBTalk4](./figures/bbtalk4.jpg "BBTalk 4th screen")
-*The first communication with the instrument being performed.*
+{% capture fig_img %}
+![BBTalk4]({{ site.url }}{{ site.baseurl }}/images/figures/bbtalk4.jpg){: .align-center}
+{% endcapture %}
+
+<figure style="width: 500px">
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>The first communication with the instrument being performed.</figcaption>
+</figure>
 
 ### 5) The next test will be if the instrument is operating properly:
 
 The command to check the main parts of the ADCP as well as the signal path is the `PA`. This command checks the *CPU*,*DSP*, the *System* itself, the *storage devices* and the *sensor*:
 
-![BBTalk5](./figures/bbtalk5.jpg "BBTalk 5th screen")
-*`PA` test to check the equipment functionality.*
+{% capture fig_img %}
+![BBTalk5]({{ site.url }}{{ site.baseurl }}/images/figures/bbtalk5.jpg){: .align-center}
+{% endcapture %}
+
+<figure style="width: 500px">
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>`PA` test to check the equipment functionality.</figcaption>
+</figure>
+
 
 ### 6) Attitude test: Heading (compass), Pitch and Roll.
 
 The command `PC2` is sent to check *Heading*,*Pitch* and *Roll*. While performing this test, one can move the sensor in it's 3 axis and check if the output values are changing.
 
-![BBTalk6](./figures/bbtalk6.jpg "BBTalk 6th screen")
-*`PC2` test showing the movements of the sensor.*
+{% capture fig_img %}
+![BBTalk6]({{ site.url }}{{ site.baseurl }}/images/figures/bbtalk6.jpg){: .align-center}
+{% endcapture %}
+
+<figure style="width: 500px">
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>`PC2` test showing the movements of the sensor.</figcaption>
+</figure>
